@@ -8,6 +8,25 @@ body {
     background: black;
 }
 
+p {
+    margin: 0;
+    padding: 0 0 0 10px
+}
+
 .container {
     color: white;
+}
+
+.ps5-title {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.author {
+    color: #e2127A;
+}
+
+.john-stewart {
+    font-weight: bold;
+    font-size: 25px
 }
