@@ -1,0 +1,13 @@
+.jumbotron{
+    background: url("/images/jumbotron_bg.jpg"); 
+    background-size: 100%;
+    color: white;
+}
+
+body {
+    background: black;
+}
+
+.container {
+    color: white;
+}
